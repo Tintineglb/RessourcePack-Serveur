@@ -1,0 +1,33 @@
+{
+	"formatVersion": "1.0.0",
+	"rigs": {
+		"ctz": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/ctz/fade.json",
+				"assets/animated_java/items/blueprint/ctz/square.json",
+				"assets/animated_java/models/blueprint/ctz/fade.json",
+				"assets/animated_java/models/blueprint/ctz/square.json"
+			]
+		},
+		"trophee": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/trophee/glow.json",
+				"assets/animated_java/items/blueprint/trophee/play.json",
+				"assets/animated_java/items/blueprint/trophee/pt1.json",
+				"assets/animated_java/items/blueprint/trophee/pt2.json",
+				"assets/animated_java/items/blueprint/trophee/pt3.json",
+				"assets/animated_java/items/blueprint/trophee/shine.json",
+				"assets/animated_java/items/empty.json",
+				"assets/animated_java/models/blueprint/trophee/glow.json",
+				"assets/animated_java/models/blueprint/trophee/play.json",
+				"assets/animated_java/models/blueprint/trophee/pt1.json",
+				"assets/animated_java/models/blueprint/trophee/pt2.json",
+				"assets/animated_java/models/blueprint/trophee/pt3.json",
+				"assets/animated_java/models/blueprint/trophee/shine.json",
+				"assets/animated_java/models/empty.json"
+			]
+		}
+	}
+}

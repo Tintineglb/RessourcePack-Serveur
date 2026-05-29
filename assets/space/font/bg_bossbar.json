@@ -1,0 +1,20 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": -5,
+                "\u200c": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/bg_bossbar.png",
+            "ascent": 25,
+            "height": 25,
+            "chars": [
+                "\u0031"
+            ]
+        }
+    ]
+}

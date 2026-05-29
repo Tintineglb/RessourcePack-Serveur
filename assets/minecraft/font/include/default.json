@@ -1,0 +1,89 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/air.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["\uE001"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/check.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["\uE002"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/wrong.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["\uE003"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/bossbar.png",
+			"ascent": 10,
+			"height": 45,
+			"chars": ["\uE004"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/clock.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["\uE005"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/blue_border.png",
+			"ascent": 9,
+			"height": 10,
+			"chars": ["\uE006"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/bossbar3.png",
+			"ascent": -9,
+			"height": 45,
+			"chars": ["\uE008"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/frag_1.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["\uE009"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/frag_2.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["\uE010"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/frag_3.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["\uE011"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/bossbar4.png",
+			"ascent": -9,
+			"height": 45,
+			"chars": ["\uE012"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/team.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["\uE014"]
+		}
+	
+	]
+}

@@ -1,0 +1,78 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/paper"
+    },
+    "cases": [
+      {
+        "when": "frag_1",
+        "model": {
+          "type": "model",
+          "model": "item/fragment_1",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": [1.0, 0.0, 0.0]
+            }
+          ]
+        }
+      },
+      {
+        "when": "frag_2",
+        "model": {
+          "type": "model",
+          "model": "item/fragment_2",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": [1.0, 0.0, 0.0]
+            }
+          ]
+        }
+      },
+      {
+        "when": "frag_3",
+        "model": {
+          "type": "model",
+          "model": "item/fragment_3",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": [1.0, 0.0, 0.0]
+            }
+          ]
+        }
+      },
+      {
+        "when": "full",
+        "model": {
+          "type": "model",
+          "model": "item/full",
+          "tints": [
+            {
+              "type": "minecraft:constant",
+              "value": [1.0, 0.0, 0.0]
+            }
+          ]
+        }
+      },
+      {
+        "when": "slot_filled",
+        "model": {
+          "type": "model",
+          "model": "item/slot_filled"
+        }
+      },
+      {
+        "when": "depo",
+        "model": {
+          "type": "model",
+          "model": "item/depo"
+        }
+      }
+    ]
+  }
+}
